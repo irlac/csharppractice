@@ -1,0 +1,6 @@
+C:\Users\Camden\RiderProjects\practice\consolepractice\bin\Debug\consolepractice.exe
+C:\Users\Camden\RiderProjects\practice\consolepractice\bin\Debug\consolepractice.pdb
+C:\Users\Camden\RiderProjects\practice\consolepractice\obj\Debug\consolepractice.exe
+C:\Users\Camden\RiderProjects\practice\consolepractice\obj\Debug\consolepractice.pdb
+C:\Users\Camden\RiderProjects\practice\consolepractice\obj\Debug\consolepractice.csprojAssemblyReference.cache
+C:\Users\Camden\RiderProjects\practice\consolepractice\obj\Debug\consolepractice.csproj.CoreCompileInputs.cache
